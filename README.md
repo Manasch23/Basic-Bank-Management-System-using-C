@@ -3,7 +3,7 @@
 
 The Bank Management System is a simple console-based application developed in C. It provides basic banking functionalities, such as account creation, deposit, withdrawal, transfer, and balance inquiry.
 
-#Features
+## Features
 
 -Create a new bank account
 
@@ -18,7 +18,7 @@ The Bank Management System is a simple console-based application developed in C.
 -Simple text-based menu navigation
 
 
-# Prerequisites
+## Prerequisites
 
 To run this program, you need:
 
@@ -27,7 +27,7 @@ To run this program, you need:
 -A terminal or command prompt
 
 
-# Future Enhancements
+## Future Enhancements
 
 -Implementing a graphical user interface (GUI)
 
